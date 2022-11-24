@@ -9,3 +9,7 @@ body>h1{
     color: cyan;
     text-shadow: 2px 2px coral;
 }
+body>nav{
+    color: aqua;
+    text-shadow: 2px 2px coral;
+}
