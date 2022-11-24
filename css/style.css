@@ -1,0 +1,20 @@
+body{
+    background-image:url(../img/FONDOOOOOOOOOOOOO.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+body>h1{
+    color: aqua;
+    text-shadow: 2px 2px coral;
+    font-size: 90px;
+}
+body>h3{
+    color: aqua;
+    text-shadow: 2px 2px coral;
+    font-size: 35px;
+}
+body>nav{
+    color: aqua;
+    text-shadow: 2px 2px coral;
+}
