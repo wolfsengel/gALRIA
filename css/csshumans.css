@@ -4,3 +4,8 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
 }
+body>h1{
+    font-size: 70px;
+    color: cyan;
+    text-shadow: 2px 2px coral;
+}
